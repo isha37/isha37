@@ -1,8 +1,9 @@
-### Hi there 👋 I am Isha Godge. Welcome to my GitHub Page.
+### Hi there 👋 I am Isha Godge. Welcome to my GitHub Page!
 
-### 🎯 I’m actively seeking Summer 2022 Internships for the role of Data Engineer/Data Analyst/Business Intelligence Analyst.
 
-### 📧 How to reach me: isha.godge73@gmail.com
+🎯 I’m actively seeking Summer 2022 Internships for the role of Data Engineer/Data Analyst/Business Intelligence Analyst.
+
+📧 How to reach me: isha.godge73@gmail.com
 
 
 About Me:
